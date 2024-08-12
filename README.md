@@ -10,9 +10,7 @@ Assignment requirements:
 + Use a loop or a while loop to reduce repetition
 + Use functions to make code reusable
 + Use console.log and alert to display messages
-+ Use some HTML and CSS to create a basic website. Use at least 4 different HTML tags
-and style at least 2 of them. This does not need to look good! It is just a demo of what is
-covered.
++ Use some HTML and CSS to create a basic website
 + Get input from the user on a web page
 + Make changes to the HTML or CSS using JavaScript
 + Use an event to trigger a change to a web page
