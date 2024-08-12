@@ -2,7 +2,7 @@
 
 👩‍🎨 I created a created a web app that allows the user to select a continent and an artform, then updates the web page based on the input
 
-🧮 The user can also guess the year of the painting and a prompt appears telling them the correct date
+🧮 The user can also guess the year of the painting and a prompt appears telling them the correct date the artwork was made
 
 Assignment requirements:
 + Use boolean values and if..else statements to branch logic of your program
