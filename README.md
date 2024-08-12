@@ -4,7 +4,7 @@
 
 🧮 The user can also guess the year of the painting and a prompt appears telling them the correct date the artwork was made
 
-Assignment requirements:
+**Assignment requirements:**
 + Use boolean values and if..else statements to branch logic of your program
 + Use a data structure like an array to store values
 + Use a loop or a while loop to reduce repetition
