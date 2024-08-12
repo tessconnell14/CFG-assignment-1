@@ -1,0 +1,55 @@
+/* General styling */
+body {
+	margin: 0;
+	padding: 20px;
+	font-family: Helvetica, sans-serif;
+	background-color: lightcyan;
+	text-align: center;
+}
+
+#info {
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Image size */
+#imageArtGallery {
+	max-width: 20em;
+}
+
+/* Drop down styling */
+#continentSearch,
+#artFormSearch {
+	margin: 5px;
+	padding: 10px;
+	width: 200px;
+}
+
+/* Buttons styling */
+#searchBtn,
+#clearBtn {
+	background-color: #349beb;
+	width: 150px;
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 0;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+#searchBtn:hover {
+	background-color: darkcyan;
+}
+
+#clearBtn:hover {
+	background-color: darkcyan;
+}
+
+#guessingGame {
+	padding: 10px;
+}

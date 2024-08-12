@@ -1,0 +1,51 @@
+<html>
+
+<head>
+	<title>Women Artists</title>
+</head>
+
+<body>
+	<div id="landingContent">
+		<header>
+			<h1 id="header">Women Artists Around the World</h1>
+		</header>
+
+		<img id="imageArtGallery" src="https://www.artnews.com/wp-content/uploads/2023/06/Tate-Britain-rehang-installation-view-2023-Tate-Madeleine-Buddo-14.jpeg?w=1200" alt="art gallery">
+
+		<p id="info">Choose a continent and an art form:</p>
+	</div>
+
+	<!--Create continent drop down options-->
+	<select id="continentSearch">
+		<option value="africa">Africa</option>
+		<option value="europe">Europe</option>
+		<option value="america">America</option>
+		<option value="asia">Asia</option>
+	</select>
+	<br>
+
+	<!--Create art form drop down options-->
+	<select id="artFormSearch">
+		<option value="painting">Painting</option>
+		<option value="sculpture">Sculpture</option>
+		<option value="photography">Photography</option>
+	</select>
+	<br>
+
+	<!--Create search button-->
+	<button id="searchBtn">Search</button>
+
+	<!--Create clear button-->
+	<button id="clearBtn">Clear</button>
+
+	<div id="guessingGame">
+		<p>Guess the year the art work was made!</p>
+		<label for="yearInput">Enter a year:</label>
+		<input type="number" id="yearInput">
+		<button id="guessBtn">Make a guess!</button>
+		<p id="result"></p>
+	</div>
+
+	<footer>
+		<p id="hearts" onclick="emojis()">♥ Great Women Artists ♥</p>
+	</footer>
